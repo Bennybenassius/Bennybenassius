@@ -6,5 +6,5 @@ RISCV CPU:
 https://github.com/Bennybenassius/RV32I-Team15
 
 Quantum Compiler Fuzzer (QuteFuzz):
-https://github.com/IlanIwumbwe/QuteFuzz
+https://github.com/QuteFuzz/QuteFuzz
 
